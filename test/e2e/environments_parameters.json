@@ -1,0 +1,21 @@
+{
+  "local": {
+    "seleniumAddress": "http://localhost:4444/wd/hub",
+    "baseUrl": "https://www.casasbahia.com.br/"
+  },
+  "localDev": {
+    "seleniumAddress": "http://localhost:4444/wd/hub",
+    "baseUrl": ""
+  },
+  "CI": {
+    "seleniumAddress": "",
+    "baseUrl": ""
+  }
+
+
+
+
+
+
+
+}
